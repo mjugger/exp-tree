@@ -1,0 +1,21 @@
+{
+  "name": "exp-tree",
+  "description": "Builds a binary addition expression tree",
+  "main": "index.js",
+  "authors": [
+    "Mukhtar Jugger"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/mjugger/exp-tree",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "material-design-lite": "mdl#^1.2.1"
+  }
+}
