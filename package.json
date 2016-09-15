@@ -16,6 +16,7 @@
     "gulp-concat": "^2.6.0",
     "gulp-htmlmin": "^2.0.0",
     "gulp-jade": "^1.1.0",
+    "gulp-main-bower-files": "^1.5.3",
     "gulp-stylus": "^2.5.0",
     "jade": "^1.11.0",
     "stylus": "^0.54.5"
