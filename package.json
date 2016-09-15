@@ -1,0 +1,11 @@
+{
+  "name": "exp-tree",
+  "version": "1.0.0",
+  "description": "Builds a binary addition expression tree",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mukhtar Jugger",
+  "license": "ISC"
+}
